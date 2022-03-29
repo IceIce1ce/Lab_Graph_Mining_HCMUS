@@ -1,0 +1,4 @@
+- Dưới đây là link drive đến dataset mà được sử dụng từ mục 3.3 trở đi trong file notebook. Khi sử dụng file này chúng 
+ta cần phải tải về và upload file này lên drive cá nhân trước và sau đó bỏ comment đi 3 cell ở đầu mục 3.3 trong file
+notebook để lấy file dữ liệu này từ drive sang colab thì mới có đủ dữ liệu chạy cho đến hết các phần còn lại 
+- Link drive dataset: https://drive.google.com/file/d/1dn8U3nXx-6J8KXAJc20uXsf7Ptd2l8LF/view?usp=sharing 
